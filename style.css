@@ -252,7 +252,7 @@ body {
     }
 
     .valentines .card .text {
-        font-size: 1.5rem; /* Sesuaikan ukuran teks */
+        font-size: 1.8rem; /* Ukuran teks sedikit lebih besar */
     }
 
     .hearts div {
@@ -263,7 +263,7 @@ body {
 
 @media (max-width: 480px) {
     .valentines .card .text {
-        font-size: 1.2rem; /* Ukuran lebih kecil untuk layar sangat kecil */
+        font-size: 1.5rem; /* Ukuran teks sedikit lebih besar */
     }
 
     .hearts div {
